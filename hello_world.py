@@ -1,1 +1,2 @@
-print("Probando Git con Franco Merino")
+print("Probando git con GeroLeLan y Franco Merino")
+
