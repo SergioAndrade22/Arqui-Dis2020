@@ -1,1 +1,1 @@
-print("Probando git con Sergio Andrade")
+print("Probando git con GeroLeLan, Franco Merino, GuidoChia y Sergio Andrade")
